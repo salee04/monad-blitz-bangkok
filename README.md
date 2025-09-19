@@ -1,0 +1,1 @@
+# Monad Blitz Thailand submission process
